@@ -1,0 +1,730 @@
+<questions>
+  <!--1-->
+  <question>
+    <picture>/images/1.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No entry for Cars</option>
+    <option>No entry for Trucks</option>
+    <option>Truck Lane</option>
+    <option>No Parking for trucks</option>
+    <answer>No entry for Trucks</answer>
+  </question>
+  <!--2-->
+  <question>
+    <picture>/images/2.PNG</picture>
+    <text> Identify this sign.</text>
+    <option>Speed Limit 50 km/h</option>
+    <option>Speed Limit 60 km/h</option>
+    <option>Speed Limit 100 km/h</option>
+    <option>End Speed Limit</option>
+    <answer>Speed Limit 60 km/h</answer>
+  </question>
+  <!--3-->
+  <question>
+    <picture>/images/3.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Slippery Road</option>
+    <option>Roundabout Ahead</option>
+    <option>Animal Crossing</option>
+    <option>2-way Road</option>
+    <answer>Roundabout Ahead</answer>
+  </question>
+  <!-- 4 -->
+  <question>
+    <picture>/images/4.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Downhill Sign </option>
+    <option>Uneven Road Ahead</option>
+    <option>Uphill Sign</option>
+    <option>Hump Ahead</option>
+    <answer>Hump Ahead</answer>
+  </question>
+  <!-- 5 -->
+  <question>
+    <picture>/images/5.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Speed Limit 60 km/h </option>
+    <option>End of Speed Limit 60 km/h</option>
+    <option>No Entry for Vehicles over 60 km/h</option>
+    <option>Begin Speed Limit 60 km/h</option>
+    <answer>End of Speed Limit 60 km/h</answer>
+  </question>
+  <!-- 6 -->
+  <question>
+    <picture>/images/6.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No Left Turn</option>
+    <option>No U-Turn</option>
+    <option>No Right Turn</option>
+    <option>Right Turn Allowed</option>
+    <answer>No Right Turn</answer>
+  </question>
+  <!-- 7 -->
+  <question>
+    <picture>/images/7.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No Parking</option>
+    <option>Overtaking Allowed</option>
+    <option>No Overtaking</option>
+    <option>Passing Lane Ahead</option>
+    <answer>No Overtaking</answer>
+  </question>
+  <!-- 8 -->
+  <question>
+    <picture>/images/8.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No Entry</option>
+    <option>No Blowing of Horns</option>
+    <option>Use Horn Mandatory</option>
+    <option>Restricted Area</option>
+    <answer>No Blowing of Horns</answer>
+  </question>
+  <!-- 9 -->
+  <question>
+    <picture>/images/9.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Steep Descent</option>
+    <option>Uphill Sign</option>
+    <option>Slippery When Wet</option>
+    <option>Road Narrows</option>
+    <answer>Uphill Sign</answer>
+  </question>
+  <!-- 10 -->
+  <question>
+    <picture>/images/10.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>School Zone Ahead</option>
+    <option>Pedestrian Crossing</option>
+    <option>Walking Prohibited</option>
+    <option>Bicycle Lane Ahead</option>
+    <answer>Pedestrian Crossing</answer>
+  </question>
+  <!-- 11 -->
+  <question>
+    <picture>/images/11.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Pedestrian Crossing Ahead</option>
+    <option>Pedestrian Crossing</option>
+    <option>Children and Women Crossing</option>
+    <option>Bicycle Lane</option>
+    <answer>Children and Women Crossing</answer>
+  </question>
+  <!-- 12 -->
+  <question>
+    <picture>/images/12.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Landslide-Prone Area</option>
+    <option>Falling Rocks Ahead</option>
+    <option>Steep Hill Ahead</option>
+    <option>Road Closed</option>
+    <answer>Falling Rocks Ahead</answer>
+  </question>
+  <!-- 13 -->
+  <question>
+    <picture>/images/13.PNG</picture>
+    <text>What does this sign mean?</text>
+    <option>Stop Immediately</option>
+    <option>Yield to Other Vehicles</option>
+    <option>No Entry</option>
+    <option>Speed Limit Zone</option>
+    <answer>Yield to Other Vehicles</answer>
+  </question>
+  <!-- 14 -->
+  <question>
+    <picture>/images/14.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Stop Sign Ahead</option>
+    <option>Pedestrian Crossing Ahead</option>
+    <option>Traffic Signal Ahead</option>
+    <option>Road Block Ahead</option>
+    <answer>Traffic Signal Ahead</answer>
+  </question>
+  <!-- 15 -->
+  <question>
+    <picture>/images/15.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Road Closed Ahead</option>
+    <option>Roadworks</option>
+    <option>Detour Ahead</option>
+    <option>Hazardous Area Ahead</option>
+    <answer>Roadworks</answer>
+  </question>
+  <!-- 16 -->
+  <question>
+    <picture>/images/16.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>One-Way Traffic</option>
+    <option>No Entry</option>
+    <option>Two-Way Traffic Ahead</option>
+    <option>Merging Traffic</option>
+    <answer>Two-Way Traffic Ahead</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/17.PNG</picture>
+    <text>Identify this sign</text>
+    <option>No Parking</option>
+    <option>No Entry for All Types of Vehicles</option>
+    <option>One-Way Only</option>
+    <option>Restricted Area</option>
+    <answer>No Entry for All Types of Vehicles</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/18.PNG</picture>
+    <text>What does this sign mean?</text>
+    <option>Bus Stop Zone, No Parking Allowed</option>
+    <option>Bus Parking Only</option>
+    <option>Passenger Loading and Unloading Area</option>
+    <option>Restricted Area</option>
+    <answer>Bus Stop Zone, No Parking Allowed</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/19.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No entry for vehicles exceeding 2 meters in height</option>
+    <option>No entry for vehicles exceeding 2 meters in width</option>
+    <option>Maximum load of 2 tons</option>
+    <option>No entry for vehicles under 2 meters in width</option>
+    <answer>No entry for vehicles under 2 meters in width</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/20.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Minimum Speed of 40 kph</option>
+    <option>Maximum Speed of 40 kph</option>
+    <option>Speed Limit Lifted</option>
+    <option>Advisory Speed Only</option>
+    <answer>Maximum Speed of 40 kph</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/21.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No entry for vehicles exceeding 5 meters in length</option>
+    <option>No entry for vehicles exceeding 5 tons</option>
+    <option>Weight limit of 5 tons per axle</option>
+    <option>Maximum speed of 5 kph</option>
+    <answer>Weight limit of 5 tons per axle</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/22.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No entry for vehicles exceeding 3.5 meters in width</option>
+    <option>No entry for vehicles exceeding 3.5 meters in height</option>
+    <option>Maximum load of 3.5 tons</option>
+    <option>No vehicles under 3.5 meters in height</option>
+    <answer>No entry for vehicles exceeding 3.5 meters in height</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/23.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Sharp Turn</option>
+    <option>Dangerous Curve</option>
+    <option>Slippery Road</option>
+    <option>Zigzag Road</option>
+    <answer>Dangerous Curve</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/24.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Crossroad Ahead</option>
+    <option>No Entry</option>
+    <option>Roundabout Ahead</option>
+    <option>Approach to Intersection</option>
+    <answer>Approach to Intersection</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/25.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Y-Junction Ahead</option>
+    <option>T-Junction Ahead</option>
+    <option>Danger warning sign to indicate road intersection</option>
+    <option>Roundabout Ahead</option>
+    <answer>Y-Junction Ahead</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/26.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Y-Junction Ahead</option>
+    <option>Approach to Intersection Side Road</option>
+    <option>T-Junction Ahead</option>
+    <option>Roundabout Ahead</option>
+    <answer>Approach to Intersection Side Road</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/27.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Side Road Intersection</option>
+    <option>Approach to Intersection Merging Traffic</option>
+    <option>T-Junction Ahead</option>
+    <option>Roundabout Ahead</option>
+    <answer>Approach to Intersection Merging Traffic</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/28.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Opening Bridge Ahead</option>
+    <option>Narrow Bridge Ahead</option>
+    <option>Bridge Under Construction</option>
+    <option>Road Closed</option>
+    <answer>Opening Bridge Ahead</answer>
+  </question>
+  <!-- 29 -->
+<question>
+  <picture>/images/29.PNG</picture>
+  <text>Identify this sign.</text>
+  <option>Pedestrian Crossing Ahead</option>
+  <option>School Zone Ahead</option>
+  <option>Children Crossing Zone</option>
+  <option>Walking Area Only</option>
+  <answer>Pedestrian Crossing Ahead</answer>
+</question>
+  <!--  -->
+  <question>
+    <picture>/images/30.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Bicycle Parking Area</option>
+    <option>Bicycle Crossing Zone</option>
+    <option>No Entry for Bicycles</option>
+    <option>Bike Lane</option>
+    <answer>Bike Lane</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/31.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Stop Sign</option>
+    <option>Restricted Area</option>
+    <option>No Entry Sign</option>
+    <option>Speed Limit Sign</option>
+    <answer>No Entry Sign</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/32.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Double Left Sharp Turn</option>
+    <option>Sharp Right Turn </option>
+    <option>U-Turn Ahead</option>
+    <option>Winding Road</option>
+    <answer>Double Left Sharp Turn</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/33.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Left Sharp Turn</option>
+    <option>Right Sharp Turn</option>
+    <option>U-Turn Ahead</option>
+    <option>Winding Road</option>
+    <answer>Right Sharp Turn</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/34.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Right Sharp Turn</option>
+    <option>U-Turn Ahead</option>
+    <option>Left Sharp Turn</option>
+    <option>Winding Road</option>
+    <answer>Left Sharp Turn</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/35.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Double Right Sharp Turn</option>
+    <option>Double Left Sharp Turn</option>
+    <option>Winding Road</option>
+    <option>Sharp U-Turn</option>
+    <answer>Double Right Sharp Turn</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/36.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No Entry for Vehicles Exceeding 10 Meters in Length</option>
+    <option>Maximum Height Restriction</option>
+    <option>No Entry for Trucks</option>
+    <option>Parking for Buses Only</option>
+    <answer>No Entry for Vehicles Exceeding 10 Meters in Length</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/37.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>First Aid Station</option>
+    <option>Hospital Sign</option>
+    <option>Parking Area</option>
+    <option>Emergency Exit</option>
+    <answer>Hospital Sign</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/38.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Rest Area</option>
+    <option>Parking Zone</option>
+    <option>Fuel Filling Station</option>
+    <option>Vehicle Maintenance Station</option>
+    <answer>Fuel Filling Station</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/39.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>Yield</option>
+    <option>Stop</option>
+    <option>No Entry</option>
+    <option>Slow Down</option>
+    <answer>Stop</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/40.PNG</picture>
+    <text>Identify this sign.</text>
+    <option>No Parking</option>
+    <option>No Overtaking</option>
+    <option>No U-turn</option>
+    <option>No Left Turn</option>
+    <answer>No U-turn</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/41.PNG</picture>
+    <text>What does this traffic sign indicate?</text>
+    <option>No Entry for Vehicles Exceeding 10 Meters in Length</option>
+    <option>Two-way hazard markers</option>
+    <option>No Entry for Trucks</option>
+    <option>Parking for Buses Only</option>
+    <answer>Two-way hazard markers</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/42.PNG</picture>
+    <text>What does this traffic sign indicate?</text>
+    <option>Lane merging ahead</option>
+    <option>Road under construction</option>
+    <option>Width markers for narrowing clearance</option>
+    <option>Two-way traffic ahead</option>
+    <answer>Width markers for narrowing clearance</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/43.PNG</picture>
+    <text>What does this traffic sign indicate?</text>
+    <option>Hazard ahead</option>
+    <option>Road under construction</option>
+    <option>Width markers for narrowing clearance</option>
+    <option>Two-way traffic ahead</option>
+    <answer>Width markers for narrowing clearance</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/44.PNG</picture>
+    <text>What does the solid white line in the center of the road indicate?</text>
+    <option>Passing is strictly prohibited</option>
+    <option>Crossing the line requires special care and is discouraged</option>
+    <option>Lane merging area</option>
+    <option>The road is divided by a median strip</option>
+    <answer>Crossing the line requires special care and is discouraged</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/45.PNG</picture>
+    <text>What does the lane line on the road indicate?</text>
+    <option>Lane changing is prohibited</option>
+    <option>Changing lanes is allowed if safe and without causing obstruction</option>
+    <option>The road is a single lane only</option>
+    <option>Vehicles must stay in their respective lanes at all times</option>
+    <answer>Changing lanes is allowed if safe and without causing obstruction</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/46.PNG</picture>
+    <text>What does a double solid yellow line mean?</text>
+    <option>Overtaking is allowed</option>
+    <option>Drive in the center lane</option>
+    <option>No overtaking or crossing</option>
+    <option>Overtaking for slow vehicles only</option>
+    <answer>No overtaking or crossing</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/47.PNG</picture>
+    <text>What does this traffic sign indicate?</text>
+    <option>Overtaking allowed</option>
+    <option>No overtaking</option>
+    <option>Both allowed</option>
+    <option>None allowed</option>
+    <answer>No overtaking</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/48.PNG</picture>
+    <text>What does a single yellow line with a broken white line mean?</text>
+    <option>Overtaking is allowed on both sides</option>
+    <option>No crossing is allowed on either side</option>
+    <option>Crossing allowed on the broken white line side; no overtaking on the solid yellow line side</option>
+    <option>Overtaking allowed only on the solid yellow line side</option>
+    <answer>Crossing allowed on the broken white line side; no overtaking on the solid yellow line side</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/49.PNG</picture>
+    <text>What does a broken yellow line indicate?</text>
+    <option>No overtaking allowed</option>
+    <option>Overtaking allowed only on one side</option>
+    <option>Crossing and overtaking allowed with caution</option>
+    <option>No crossing or overtaking allowed</option>
+    <answer>Crossing and overtaking allowed with caution</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/50.PNG</picture>
+    <text>What does the "Do Not Block Intersection" marking indicate?</text>
+    <option>Parking is allowed inside the yellow box</option>
+    <option>Vehicles must stop before the yellow box</option>
+    <option>Only buses can stay inside the yellow box</option>
+    <option>No vehicle should stop inside the yellow box to avoid obstruction</option>
+    <answer>No vehicle should stop inside the yellow box to avoid obstruction</answer>
+  </question>
+  <!--  -->
+  <question>
+    <text>Green light at an intersection means:</text>
+    <option>Pedestrians are allowed to cross all pedestrian lanes</option>
+    <option>Pedestrians are not allowed to cross all pedestrian lanes </option>
+    <option>The vehicles on the other street are stopped</option>
+    <option>Vehicles must proceed cautiously through the intersection</option>
+    <answer>Pedestrians are not allowed to cross all pedestrian lanes </answer>
+  </question>
+  <!--  -->
+  <question>
+    <text>Flashing yellow light means:</text>
+    <option>Slowdown and proceed with caution </option>
+    <option>You have the right of way over a flashing yellow light</option>
+    <option>Vehicles will be crossing from the other side</option>
+    <option>Stop and wait for the light to turn green</option>
+    <answer>Slowdown and proceed with caution </answer>
+  </question>
+  <!--  -->
+  <question>
+    <text>When do you have to make a complete full stop?</text>
+    <option>At a flashing yellow light</option>
+    <option>At a red traffic light </option>
+    <option>At an intersection</option>
+    <option>While driving on a green light</option>
+    <answer>At a red traffic light </answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/54.PNG</picture>
+    <text>What does this hand signal mean?</text>
+    <option>Turning left.</option>
+    <option>Turning right. </option>
+    <option>Slowing down or stopping.</option>
+    <option>Reversing the vehicle. (Incorrect)</option>
+    <answer>Turning left.</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/55.PNG</picture>
+    <text>What does this hand signal mean?</text>
+    <option>Turning left.</option>
+    <option>Turning right.</option>
+    <option>Slowing down or stopping.</option>
+    <option>Hazard lights are on.</option>
+    <answer>Turning right.</answer>
+  </question>
+  <!--  -->
+  <question>
+    <picture>/images/56.PNG</picture>
+    <text>What does this hand signal mean?</text>
+    <option>Turning right.</option>
+    <option>Turning left.</option>
+    <option>Stopping.</option>
+    <option>Reversing.</option>
+    <answer>Stopping.</answer>
+  </question>
+  <!-- 57 -->
+  <question>
+    <text>Before changing lanes in traffic, aside from giving signals and checking your side and rear-view mirrors, what else do you need to do?</text>
+    <option>Turn your head to check other vehicles beside your car. </option>
+    <option>Sound your horn.</option>
+    <option>Blink your headlights.</option>
+    <option>Use your windshield wipers. </option>
+    <answer>Turn your head to check other vehicles beside your car. </answer>
+  </question>
+  <!-- 58 -->
+  <question>
+    <text>What is the best safety rule when driving a motor vehicle?</text>
+    <option>Blow your horn to assert your right-of-way.</option>
+    <option>Never insist on your right-of-way.</option>
+    <option>Always demand the right-of-way.</option>
+    <option>Drive faster to avoid other vehicles.</option>
+    <answer>Never insist on your right-of-way.</answer>
+  </question>
+  <!-- 59 -->
+  <question>
+    <text>What is a tailgater?</text>
+    <option>A driver who follows too closely behind another vehicle.</option>
+    <option>A driver who speeds excessively on the highway.</option>
+    <option>A driver who stops abruptly without signaling.</option>
+    <option>A driver who frequently changes lanes without caution.</option>
+    <answer>A driver who follows too closely behind another vehicle. </answer>
+  </question>
+  <!-- 60 -->
+  <question>
+    <text>The most effective way to deal with a tailgater is to:</text>
+    <option>Ignore him but do not allow him to get away.</option>
+    <option>Slow down and let him pass. </option>
+    <option>Increase your speed and be alert on your brakes.</option>
+    <option>Move erratically to force him to slow down. </option>
+    <answer>Slow down and let him pass. </answer>
+  </question>
+  <!-- 61 -->
+  <question>
+    <text>When do you need to use your seat belt?</text>
+    <option>When driving on a national road</option>
+    <option>When driving above 10 kph</option>
+    <option>While the engine is running and before moving off </option>
+    <option>Only when driving long distances </option>
+    <answer>While the engine is running and before moving off </answer>
+  </question>
+  <!-- 62 -->
+  <question>
+    <text>What are the three field sobriety tests?</text>
+    <option>Eye test, walk and turn, one leg stand</option>
+    <option>Eye test, running straight, jumping rope</option>
+    <option>Reading and comprehension test, singing the national anthem, and drinking one liter of fresh water</option>
+    <option>Counting backwards, solving math problems, and hopping on both legs </option>
+    <answer>Eye test, walk and turn, one leg stand</answer>
+  </question>
+  <!-- 63 -->
+  <question>
+    <text>Under Republic Act 8750, children must be properly restrained if they are:</text>
+    <option>5 years old</option>
+    <option>7 years old</option>
+    <option>10 years old</option>
+    <option>6 years old and below </option>
+    <answer>6 years old and below </answer>
+  </question>
+  <!-- 64 -->
+  <question>
+    <text>What could happen if you disregard traffic lights late at night?</text>
+    <option>You become a good driver.</option>
+    <option>You risk being involved in a fatal road crash. </option>
+    <option>You reduce fuel consumption.</option>
+    <option>You improve driving efficiency.</option>
+    <answer>You risk being involved in a fatal road crash. </answer>
+  </question>
+  <!-- 65 -->
+  <question>
+    <text>Which of the following is a quality of a defensive driver?</text>
+    <option>A driver who applies basic knowledge of vehicle maintenance. </option>
+    <option>A driver who knows how to properly use clutch and brake pedals while driving.</option>
+    <option>A driver who continues driving with flat tires to avoid an impounding ticket.</option>
+    <option>A driver who speeds up to overtake at all costs.</option>
+    <answer>A driver who applies basic knowledge of vehicle maintenance.</answer>
+  </question>
+  <!-- 66 -->
+  <question>
+    <text>What should you do when driving on a highway with many potholes?</text>
+    <option>Increase speed.</option>
+    <option>Always change lanes.</option>
+    <option>Reduce speed.</option>
+    <option>Stop immediately.</option>
+    <answer>Reduce speed.</answer>
+  </question>
+  <!-- 67 -->
+  <question>
+    <text>At night, when approaching a curve or intersection with poor visibility, you should:</text>
+    <option>Switch off your headlights to enable oncoming motorists to see you.</option>
+    <option>Use only your parking lights to navigate through the curve. </option>
+    <option>Switch on your interior lights to enable oncoming vehicles to see your vehicle.</option>
+    <option>Flash your headlights to let pedestrians and oncoming motorists know that you are heading into the curve or intersection. </option>
+    <answer>Flash your headlights to let pedestrians and oncoming motorists know that you are heading into the curve or intersection. </answer>
+  </question>
+  <!-- 68 -->
+  <question>
+    <text>What is the first thing to do if you experience a tire blowout?</text>
+    <option>Don’t step on the brakes, focus on the steering wheel.</option>
+    <option>Step on your brakes immediately to avoid hitting the motor vehicle in front of you.</option>
+    <option>Switch off the engine.</option>
+    <option>Turn on your hazard lights immediately and keep driving. </option>
+    <answer>Don’t step on the brakes, focus on the steering wheel.</answer>
+  </question>
+  <!-- 69 -->
+  <question>
+    <text>Where can you contest an alleged traffic violation?</text>
+    <option>At the traffic adjudication office concerned.</option>
+    <option>On the street, before the traffic enforcer leaves.</option>
+    <option>At any adjudication office.</option>
+    <option>By refusing to accept the violation ticket.</option>
+    <answer>At the traffic adjudication office concerned.</answer>
+  </question>
+  <!-- 70 -->
+  <question>
+    <text>What is the proper thing to do when a traffic enforcer flags you down?</text>
+    <option>Ignore the enforcer and drive away quickly.</option>
+    <option>Stop your vehicle safely at the side of the road and comply respectfully.</option>
+    <option>Argue with the enforcer about the violation immediately.</option>
+    <option>Offer a bribe to avoid being ticketed.</option>
+    <answer>Stop your vehicle safely at the side of the road and comply respectfully.</answer>
+  </question>
+  <!-- 71 -->
+  <question>
+    <text>Under the Seat Belt Act (R.A. 8750), when are drivers and passengers required to wear seat belts?</text>
+    <option>Only when traveling on national highways.</option>
+    <option>Only when driving at speeds over 40 kph.</option>
+    <option>At all times, whether the vehicle is in motion or stationary on public roads.</option>
+    <option>Only when instructed by a traffic enforcer.</option>
+    <answer>At all times, whether the vehicle is in motion or stationary on public roads.</answer>
+  </question>
+  <!-- 72 -->
+  <question>
+    <text>Is a driver allowed to load cargo more than the vehicle’s registered load capacity?</text>
+    <option>No.</option>
+    <option>Yes.</option>
+    <option>Yes, if the cargo is fragile or perishable.</option>
+    <option>Yes, if it’s a short-distance trip.</option>
+    <answer>No.</answer>
+  </question>
+  <!-- 73 -->
+  <question>
+    <text>What happens if a driver is convicted of a crime while using a motor vehicle?</text>
+    <option>The driver’s license will be suspended, and a fine will be imposed.</option>
+    <option>The driver’s license will be confiscated.</option>
+    <option>The driver’s license will be revoked, and they will be permanently disqualified from applying for a new license, in addition to paying a monetary fine.</option>
+    <option>The driver will receive a warning and must attend a seminar.</option>
+    <answer>The driver’s license will be revoked, and they will be permanently disqualified from applying for a new license, in addition to paying a monetary fine.</answer>
+  </question>
+  <!-- 74 -->
+  <question>
+    <text>When can a child be exempted from being seated in a child restraint system?</text>
+    <option>If the child will be late for a medical appointment.</option>
+    <option>If the child is going to school.</option>
+    <option>If the child requires immediate medical treatment.</option>
+    <option>If the child is riding in a private vehicle.</option>
+    <answer>If the child requires immediate medical treatment.</answer>
+  </question>
+  <!-- 75 -->
+  <question>
+    <text>Under R.A. No. 11229, at what age is a child allowed to sit in the front passenger seat of a car?</text>
+    <option>More than 12 years old.</option>
+    <option>16 years old and above.</option>
+    <option>18 years old and above.</option>
+    <option>10 years old and above.</option>
+    <answer>More than 12 years old.</answer>
+  </question>
+</questions>
