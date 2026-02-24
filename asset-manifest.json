@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mock-driving-exam/static/css/main.70b7370b.css",
-    "main.js": "/mock-driving-exam/static/js/main.82c9594e.js",
+    "main.js": "/mock-driving-exam/static/js/main.a0ff0cc3.js",
     "index.html": "/mock-driving-exam/index.html",
     "main.70b7370b.css.map": "/mock-driving-exam/static/css/main.70b7370b.css.map",
-    "main.82c9594e.js.map": "/mock-driving-exam/static/js/main.82c9594e.js.map"
+    "main.a0ff0cc3.js.map": "/mock-driving-exam/static/js/main.a0ff0cc3.js.map"
   },
   "entrypoints": [
     "static/css/main.70b7370b.css",
-    "static/js/main.82c9594e.js"
+    "static/js/main.a0ff0cc3.js"
   ]
 }
